@@ -1,1 +1,1 @@
-# NumberGUESSGAME
+The number-guessing game is a console-based game where the program randomly selects a number within a specified range (e.g., 1 to 100). The user tries to guess the number within a limited number of attempts. After each guess, the program provides feedback (too high, too low) to guide the user toward the correct answer. The game tracks the number of attempts made and ends when the user guesses correctly or exhausts all attempts. It includes features like replayability, where users can play again after completing a game session
